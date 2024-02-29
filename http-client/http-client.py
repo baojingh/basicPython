@@ -35,3 +35,5 @@ def get_device_id():
 
 if __name__ == '__main__':
     get_device_id()
+
+
